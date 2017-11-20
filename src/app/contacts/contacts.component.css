@@ -1,0 +1,11 @@
+.fixed-panel {
+    min-height: 11cm;
+    max-height: 11cm;
+    overflow-y: scroll;
+}
+
+.fixed-table {
+    min-height: 7cm;
+    max-height: 7cm;
+    overflow-y: scroll;
+}
